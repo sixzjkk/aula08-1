@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import Registrar from "./Registro";
 
 export default function Home() {
 
